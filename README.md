@@ -1,3 +1,7 @@
+                           How to Save Products in  localStorage (Shopping Cart in VueJs + Laravel Part 2)
+                           
+                           Youtube: https://youtu.be/1b8M5Z6QoBA
+                           
                            How to Add Products in the Cart with save localStorage (Shopping Cart in VueJs + Laravel Part 2)
 
 in before part i show how to add products in the cart 
